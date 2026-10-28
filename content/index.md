@@ -3,8 +3,7 @@ title: Handmade Beauty
 ---
 ## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
-
+I will show case the different types of crafts and It's origin
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
