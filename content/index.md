@@ -2,7 +2,7 @@
 title: Handmade Beauty
 ---
 ## The index page
-
+I will show case the different types of crafts and It's origin
 
 ## Editing pages
 
