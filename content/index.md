@@ -1,5 +1,5 @@
 ---
-title: Handmade Beauty
+title: Handmade Craft
 ---
 ## The index page
 
