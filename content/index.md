@@ -3,7 +3,7 @@ title: Handmade Beauty
 ---
 ## The index page
 
-I will show case the different types of crafts and It's origin.
+This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
 
 ## Editing pages
 
