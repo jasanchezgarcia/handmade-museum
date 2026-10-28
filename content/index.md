@@ -1,10 +1,9 @@
 ---
 title: Handmade Beauty
-paragraph: I will show case the different types of crafts and It's origin
 ---
 ## The index page
 
-
+I will show case the different types of crafts and It's origin.
 
 ## Editing pages
 
