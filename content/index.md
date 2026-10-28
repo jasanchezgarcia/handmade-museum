@@ -6,7 +6,7 @@ title: Handmade Craft
 
 ## Editing pages
 
-I will show case the different types of crafts and It's origin. hello
+I will show case the different types of crafts and It's origin.
 
 ### Obsidian (free)
 
