@@ -6,7 +6,7 @@ title: Handmade Beauty
 
 ## Editing pages
 
-I will show case the different types of crafts and It's origin
+I will show case the different types of crafts and It's origin.
 
 ### Obsidian (free)
 
