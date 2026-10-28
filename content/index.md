@@ -7,7 +7,7 @@ I will show case the different types of crafts and It's origin
 ## Editing pages
 
 I will show case the different types of crafts and It's origin.
-
+hello
 ### Obsidian (free)
 
 Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
