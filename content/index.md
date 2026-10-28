@@ -1,5 +1,5 @@
 ---
-title: Handmade Craft
+title: Handmade Craft!
 ---
 ## The index page
 
