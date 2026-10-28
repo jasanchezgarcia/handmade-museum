@@ -3,12 +3,10 @@ title: Handmade Beauty
 ---
 ## The index page
 
-I will show case the different types of crafts and It's origin
+
 ## Editing pages
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
-
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
+I will show case the different types of crafts and It's origin
 
 ### Obsidian (free)
 
