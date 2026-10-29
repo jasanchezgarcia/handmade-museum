@@ -2,11 +2,11 @@
 title: Handmade Craft
 ---
 ## The index page
-
+I will show case the different types of crafts and it's origin!
 
 ## Editing pages
 
-I will show case the different types of crafts and It's origin.
+
 
 ### Obsidian (free)
 
