@@ -38,7 +38,7 @@ You can use any text editor capable of opening and editing Markdown files.
 You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
 
 ## Main Categories
-- [[drawing/index.md|Drawings]]
+- [[drawing/index.md|Drawing]]
 - [[ceramics/index.md|Ceramics]]
 - [[sewing/index.md|Sewing]]
 - [[bookbinding/index.md|Bookbinding]]
