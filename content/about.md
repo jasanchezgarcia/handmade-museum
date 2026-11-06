@@ -1,1 +1,4 @@
+---
+title: About me
+---
 Hello, my name is Jazmin Sanchez Garcia and I hope to show the world about amazing handcraft hobbies and Its origin. I plan to show how these handcraft hobbies have not gone extinct or forgotten. This is well needed due to the costent take over of AI.  
